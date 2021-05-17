@@ -4,7 +4,7 @@
 
 My name is Fabricio Alves Oliveira, I'm from Brazil 🇧🇷
 
-I'm a Full Stack Kotlin developer, building Android apps and API on the server side
+I'm a Full Stack developer, building Android apps and API on the server side.
 
 
 -   📍 Living in Viradouro 
