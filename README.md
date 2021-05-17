@@ -1,13 +1,18 @@
 
 
-# Hey
+# Saudações
+Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar coisas, sempre buscando aprender algo! 
 
-My name is Fabricio Alves Oliveira, I'm from Brazil 🇧🇷
+## Tecnologias que tenho conhecimento e mais utilizo 😎
 
-I'm a Full Stack developer, building Android apps and API on the server side.
+* C#
+* Java/Kotlin
+* Android
+* Unity
+* Construção e consumo de API
 
-
--   📍 Living in Viradouro 
-Reach me out 👇🏼
+Pode me encontrar por aqui 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciooliveirads/)](https://www.linkedin.com/in/fabriciooliveirads/)
+
+##### Em construção 👽
