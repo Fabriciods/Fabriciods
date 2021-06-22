@@ -3,11 +3,12 @@
 # Saudações
 Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar coisas, sempre buscando aprender algo! 
 
-## Tecnologias que tenho conhecimento e mais utilizo 😎
+## Tecnologias e ferramentas que tenho conhecimento e mais utilizo 😎
 
 * C#
-* Java/Kotlin
-* Android
+* Java
+* Kotlin
+* Android Studio
 * Unity
 
 
