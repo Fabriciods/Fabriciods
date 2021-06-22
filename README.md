@@ -9,7 +9,7 @@ Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar cois
 * Java/Kotlin
 * Android
 * Unity
-* Construção e consumo de API
+
 
 Pode me encontrar por aqui 👇🏼
 
