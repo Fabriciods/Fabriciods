@@ -10,6 +10,7 @@ Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar cois
 * Kotlin
 * Android Studio
 * Unity
+* Godot
 
 
 Pode me encontrar por aqui 👇🏼
