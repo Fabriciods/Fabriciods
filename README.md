@@ -5,7 +5,6 @@ Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar cois
 
 ## Tecnologias e ferramentas que tenho conhecimento e mais utilizo 😎
 
-* C#
 * Java
 * Kotlin
 * Android Studio
