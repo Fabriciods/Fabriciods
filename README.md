@@ -1,9 +1,10 @@
 
 
 # Saudações
-Me chamo Fabricio Alves Oliveira, sou apaixodado por tecnologia e amo criar coisas, sempre buscando aprender algo! 
+Me chamo Fabricio Alves Oliveira, formado em SI e desenvoledor mobile.<br>
+Também curto explorar game dev e computação evolutiva 
 
-## Tecnologias e ferramentas que tenho conhecimento e mais utilizo 😎
+## Tecnologias e ferramentas que tenho utilizado 😎
 
 * Java
 * Kotlin
@@ -16,4 +17,3 @@ Pode me encontrar por aqui 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciooliveirads/)](https://www.linkedin.com/in/fabriciooliveirads/)
 
-##### Em construção 👽
